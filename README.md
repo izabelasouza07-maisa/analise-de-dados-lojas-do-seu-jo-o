@@ -31,19 +31,26 @@ Matplotlib para visualização gráfica
 Jupyter Notebook (opcional) para execução interativa
 
 Como Executar
+
+
 Clone este repositório:
+
 
 text
 git clone https://github.com/seu-usuario/seu-repositorio.git
 Instale as dependências (recomenda-se criar um ambiente virtual):
 
+
 text
 pip install pandas matplotlib
 Baixe os dados das lojas (os URLs estão no código) ou utilize os arquivos CSV disponibilizados.
 
+
 Execute os scripts ou notebooks para gerar as análises e visualizações.
 
+
 Consulte o relatório final para a recomendação estratégica.
+
 
 Resultados esperados
 Tabelas com dados sumarizados de faturamento, avaliações, vendas por categoria e produto.
@@ -55,5 +62,3 @@ Relatório conclusivo apontando a loja ideal para venda com base nos indicadores
 Autor
 Izabela Souza - [https:\\www.linkedin.com/in/izabela-santos-de-souza]
 
-Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
